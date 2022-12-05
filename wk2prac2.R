@@ -1,3 +1,4 @@
+#this is the start of practical 2
 ls()
 
 #create some datasets, first a vector of 1-100 and 101-200
